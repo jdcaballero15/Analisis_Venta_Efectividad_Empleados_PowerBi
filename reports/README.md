@@ -1,16 +1,21 @@
-# 📊 Datos del Proyecto - Análisis de Ventas 📈
+## 📊 Reporte de Ventas en Power BI 📈
 
-Esta carpeta contiene los archivos de datos utilizados en el análisis de ventas.
-
-## 📥 Fuente de Datos
-Los datos provienen de **Excel**, representando transacciones de ventas en diferentes períodos.
+Esta carpeta contiene el **archivo Power BI (.pbix)** con el dashboard interactivo.
 
 ## 📂 Contenido
-- `ventas.xlsx` → Datos de ventas utilizados en Power BI.
+- `dashboard_ventas.pbix` → Archivo de Power BI con el análisis de ventas.
 
-## 🛠️ Limpieza y Transformación de Datos
-- Creación de **columnas calculadas** para métricas adicionales.
-- Formateo de fechas y valores numéricos.
-- Optimización de tipos de datos para cálculos en DAX.
+## 🚀 ¿Cómo usarlo?
+1. Descarga el archivo `dashboard_ventas.pbix`.
+2. Ábrelo en **Power BI Desktop**.
+3. Explora las métricas de ventas a través de los filtros interactivos.
+
+## 📊 Visualizaciones Incluidas
+- **Gráficos de ventas por vendedor y producto**.
+- **Segmentaciones dinámicas** por fecha y vendedor.
+- **Top productos más vendidos** 🔥.
+- **Indicadores de desempeño** 📈.
+
+🚀 **Este dashboard ayuda a visualizar tendencias de ventas y rendimiento de cada producto/vendedor.**
 
 
