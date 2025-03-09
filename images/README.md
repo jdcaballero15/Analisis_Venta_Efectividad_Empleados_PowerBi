@@ -5,7 +5,7 @@ Esta carpeta contiene imágenes del dashboard en acción, mostrando cómo funcio
 ## 🖼️ Capturas Incluidas
 - `dashboard_general.png` → Vista general del dashboard.
 - `ventas_por_vendedor.png` → Gráfico de ventas por vendedor.
-- `top_productos.png` → Productos más vendidos.
+- `mas_vendido.png` → Producto más vendido con el vendedor seleccionado.
 - `filtros_dashboard.png` → Uso de filtros para análisis por fecha y vendedor.
 
 ## 🔎 **Interacción con el Dashboard**
