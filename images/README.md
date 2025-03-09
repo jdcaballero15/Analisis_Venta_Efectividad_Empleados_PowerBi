@@ -12,8 +12,6 @@ Esta carpeta contiene imágenes del dashboard en acción, mostrando cómo funcio
 ## 🔎 📊 **Modelo de Datos en Power BI**
 El modelado de datos es una parte clave del proyecto, ya que permite integrar información de distintas tablas para generar análisis más precisos.
 
-![Modelo de Datos](modelado_datos.png)
-
 ### 📌 **Estructura del Modelo**
 - **`Ventas`** → Tabla principal con los registros de ventas por producto, fecha y representante.
 - **`Vendedores`** → Contiene información adicional de cada representante: ciudad y fotografía.
